@@ -45,6 +45,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## 📝 License
-
-This project is open source and free to use for educational purposes.
